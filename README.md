@@ -22,7 +22,7 @@ The constraint was intentional: no frameworks, no abstractions, no magic.
 
 ## ⏳ Timeline
 
-Built in **14 days**, with strict daily gates:
+Built in **14 days** using a **31 day** syllabus with strict daily gates:
 
 * Scan → track → detect change
 * Archive safely
